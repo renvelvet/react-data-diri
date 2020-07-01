@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import ChildData from "./ChildData";
-import ava from "../../assets/avatar.jpg ";
+import ava from "../../assets/avatar.jpg";
 function DataDiri() {
   const [name, setName] = useState("Resha");
   const [avatar, setAvatar] = useState(ava);
